@@ -22,4 +22,3 @@ SYN (Synchronize) é um flag no protocolo TCP usado para iniciar uma conexão en
     tcp.flags.syn == 1 and tcp.flags.ack == 0 (apenas o pacote SYN)
     tcp.stream eq 0 (mostra toda uma conversa, tree-way handshake completo)
 
-- 
